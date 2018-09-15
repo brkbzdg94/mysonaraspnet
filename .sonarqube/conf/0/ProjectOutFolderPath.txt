@@ -1,0 +1,1 @@
+C:\sonar-scanning-examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\MySonarASP\.sonarqube\out\0
