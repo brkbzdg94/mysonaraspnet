@@ -10,6 +10,7 @@ namespace MySonarASP
     public partial class SonarForm : System.Web.UI.Page
     {
         int sayi = 0;
+        int a;
         protected void Page_Load(object sender, EventArgs e)
         {
 
